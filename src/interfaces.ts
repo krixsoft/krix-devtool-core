@@ -1,5 +1,5 @@
 import * as Enums from './enums';
-import * as KrixStateStore from '@krix/state-store';
+import type * as KrixStateStore from '@krix/state-store';
 
 export type PackageCommands = Enums.StateStoreCommand;
 
