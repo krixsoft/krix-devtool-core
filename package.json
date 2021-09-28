@@ -33,9 +33,7 @@
   ],
   "license": "ISC",
   "dependencies": {
-    "@krix/state-store": "^6.0.1",
-    "lodash": "^4.17.21",
-    "rxjs": "^6.5.5"
+    "@krix/state-store": "^6.0.1"
   },
   "devDependencies": {
     "@types/chai": "^4.2.22",
